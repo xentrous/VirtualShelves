@@ -16,8 +16,6 @@ You can download the zip file provided here. The zip file contains both the file
 
 <u> <b> Submission Details </b> </u>
 
-You are required to upload the following three files:
-
 The output file, tags.tsv (max allowed size is 10MB). The file should contain each product from the file test.tsv followed by a list of the shelves for the product contained within square brackets.
 
 A valid output file has the following format:
